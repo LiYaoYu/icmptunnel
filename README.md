@@ -45,7 +45,8 @@ _Note: Although icmptunnel has been successfully tested on Ubuntu 14.04 LTS, it 
 4. On the server side run the tunnel with root privileges:
 
   ```
-  [sudo] ./icmptunnel -s <client ip>
+  [sudo] ./icmptunnel -s <client ip> 
+  
   ```
 
 5. On the client side, find out your gateway and the corresponding interface:
