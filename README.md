@@ -46,8 +46,7 @@ _Note: Although icmptunnel has been successfully tested on Ubuntu 14.04 LTS, it 
 
   ```
   [sudo] ./icmptunnel -s <client ip> 
-  
-  ```
+  ```
 
 5. On the client side, find out your gateway and the corresponding interface:
 
